@@ -24,3 +24,23 @@ The following figure presents sample depth predictions produced by the trained m
 ## Acknowledgements
 
 This implementation builds upon the [DenseDepth](https://github.com/ialhashim/DenseDepth) repository. We thank its authors for making their code publicly available.
+
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@article{hafeez2025multi,
+  title     = {Multi-Source Depth Estimation: Utilizing Real, Synthetic, and Monocular Depth Data with Custom Loss Functions},
+  author    = {Hafeez, Muhammad Adeel and Sistu, Ganesh and Madden, Michael G. and Ullah, Ihsan},
+  journal   = {Signal, Image and Video Processing},
+  volume    = {19},
+  number    = {11},
+  pages     = {876},
+  year      = {2025},
+  publisher = {Springer}
+}
+
+
+
