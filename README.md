@@ -19,3 +19,8 @@ The following figure presents sample depth predictions produced by the trained m
 <p align="center">
   <em>Example monocular depth predictions generated using the proposed multi-source progressive fine-tuning approach.</em>
 </p>
+
+
+## Acknowledgements
+
+This implementation builds upon the [DenseDepth](https://github.com/ialhashim/DenseDepth) repository. We thank its authors for making their code publicly available.
